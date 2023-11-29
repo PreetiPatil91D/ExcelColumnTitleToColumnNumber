@@ -1,0 +1,13 @@
+C:\Users\User\ExcelColumnTitleToColumnNumber\bin\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.exe
+C:\Users\User\ExcelColumnTitleToColumnNumber\bin\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.deps.json
+C:\Users\User\ExcelColumnTitleToColumnNumber\bin\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.runtimeconfig.json
+C:\Users\User\ExcelColumnTitleToColumnNumber\bin\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.runtimeconfig.dev.json
+C:\Users\User\ExcelColumnTitleToColumnNumber\bin\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.dll
+C:\Users\User\ExcelColumnTitleToColumnNumber\bin\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.pdb
+C:\Users\User\ExcelColumnTitleToColumnNumber\obj\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.csprojAssemblyReference.cache
+C:\Users\User\ExcelColumnTitleToColumnNumber\obj\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.AssemblyInfoInputs.cache
+C:\Users\User\ExcelColumnTitleToColumnNumber\obj\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.AssemblyInfo.cs
+C:\Users\User\ExcelColumnTitleToColumnNumber\obj\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\ExcelColumnTitleToColumnNumber\obj\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.dll
+C:\Users\User\ExcelColumnTitleToColumnNumber\obj\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.pdb
+C:\Users\User\ExcelColumnTitleToColumnNumber\obj\Debug\netcoreapp3.1\ExcelColumnTitleToColumnNumber.genruntimeconfig.cache
